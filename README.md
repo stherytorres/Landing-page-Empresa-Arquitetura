@@ -3,7 +3,8 @@
 ## Descrição:
 O projeto consiste em uma Landing page criada para uma empresa de Arquitetura.<br>
 <br>
-<img width="50%" src="https://github.com/stheryalves/Landing-page-Empresa-Arquitetura/assets/134507985/12b479f8-1149-4920-bd2c-f423a9c08b18">
+
+<img width="50%" src="https://github.com/user-attachments/assets/1c000b8c-389e-4eda-a96c-497631c5a958">
 <br><br>
 Utilizando as tecnologias: 
 * HTML
